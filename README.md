@@ -1,7 +1,7 @@
 # Http 웹 기본 지식
 [inflean] http 웹 기본 지식 강의
 
-섹션1. 인터넷 네트워크
+[섹션1. 인터넷 네트워크](https://hyun-1200.tistory.com/109)
 - 인터넷 통신
 - IP (인터넷 프로토콜)
 - TCP, UDP
